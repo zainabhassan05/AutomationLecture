@@ -25,4 +25,7 @@ public class IfElse {
 		System.out.println(15+5);		
 	}
 	
+	public static void division() {
+		System.out.println(15/5);		
+	}
 }
